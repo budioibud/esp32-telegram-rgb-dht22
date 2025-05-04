@@ -16,10 +16,10 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 // === Info WiFi dan Telegram ===
-const char* ssid = "Tselhome-EC25";
-const char* password = "mta97i33";
-String botToken = "7798777211:AAHik-vFHVEynBK-mfhYzuAmdD9qW7duq14";
-int64_t chatID = 8185932667;
+const char* ssid = "____";
+const char* password = "___";
+String botToken = "____";
+int64_t chatID = ____;
 
 
 WiFiClientSecure client;
